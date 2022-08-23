@@ -1977,6 +1977,124 @@
     </noscript>
     <meta name="generator" content="Give v2.9.5" />
     <meta name="generator" content="Powered by Slider Revolution 6.3.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+    <style>
+        /* Slide Show CSS */
+        
+        * {
+            box-sizing: border-box
+        }
+        
+        body {
+            font-family: Verdana, sans-serif;
+            margin: 0
+        }
+        
+        .mySlides {
+            display: none
+        }
+        
+        img {
+            vertical-align: middle;
+        }
+        /* Slideshow container */
+        
+        .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            margin: auto;
+        }
+        /* Next & previous buttons */
+        
+        .prev,
+        .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            padding: 16px;
+            margin-top: -22px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+        /* Position the "next button" to the right */
+        
+        .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        }
+        /* On hover, add a black background color with a little bit see-through */
+        
+        .prev:hover,
+        .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+        }
+        /* Caption text */
+        
+        .text {
+            color: #f2f2f2;
+            font-size: 15px;
+            padding: 8px 12px;
+            position: absolute;
+            bottom: 8px;
+            width: 100%;
+            text-align: center;
+        }
+        /* Number text (1/3 etc) */
+        
+        .numbertext {
+            color: #f2f2f2;
+            font-size: 12px;
+            padding: 8px 12px;
+            position: absolute;
+            top: 0;
+        }
+        /* The dots/bullets/indicators */
+        
+        .dot {
+            cursor: pointer;
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+        
+        .active,
+        .dot:hover {
+            background-color: #717171;
+        }
+        /* Fading animation */
+        
+        .fade {
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+        
+        @keyframes fade {
+            from {
+                opacity: .4
+            }
+            to {
+                opacity: 1
+            }
+        }
+        /* On smaller screens, decrease text size */
+        
+        @media only screen and (max-width: 300px) {
+            .prev,
+            .next,
+            .text {
+                font-size: 11px
+            }
+        }
+    </style>
     <script>
         function setREVStartSize(e) {
             //window.requestAnimationFrame(function() {				 
@@ -2536,15 +2654,11 @@
                                                 </ul>
                                                 <div id="tabs-1">
                                                     <div id="give-form-content-61" class="give-form-content-wrap give_pre_form-content" dir="rtl">
-                                                        <p>تهدف مبادرة “نبض حياة” إلى:
+                                                        <p>مع بداية عام 2018 م أطلقت صناع الخير مبادرة إنسانية رائدة جديدة تهدف إلى الحد من مسببات العمى، وذلك من خلال الوصول بفرق طبية متخصصة للقرى والكشف على عيون الأهالي وصرف الأدوية وعمل مقاسات للنظارات
+                                                            تمهيدًا لتوزيعها لاحقًا، وتشخيص الاحتياج لإجراء جراحات عيون، وإجرائها في أكبر المراكز الطبية المتخصصة في العيون. كل ذلك بالمجان تماما.
                                                         </p>
-                                                        <ul>
-                                                            <li>دعم مرضى القلب غير القادرين، من خلال توقيع الكشف الطبي و إجراء القسطرة الاستكشافية.
-                                                            </li><br>
-                                                            <li>إجراء التدخلات الطبية اللازمة من قسطرة علاجية وتركيب دعامات.
-                                                            </li><br>
-                                                            <li>التوعية بطرق الوقاية من الإصابة، وكيفية حماية كبار السن من مضاعفات الإصابة.</li>
-                                                        </ul>
+                                                        <p>واستهدفت المبادرة الوصول إلى كل القرى الأشد احتياجًا في كل محافظات الجمهورية.
+                                                        </p>
                                                         <blockquote>
                                                             <p>“When I give food to the poor, they call me a saint. When I ask why the poor have no food, they call me a communist.”
                                                                 <br /> <cite>The Gutenberg Team</cite></p>
@@ -2557,7 +2671,97 @@
                                                     <div class="embed-container"><iframe title="Delivering Water Filters to Families in Malawi" width="600" height="338" src="https://www.youtube.com/embed/xLfxeosUg0E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                                             allowfullscreen></iframe></div>
                                                 </div>
-                                                <div id="tabs-4"></div>
+                                                <div id="tabs-4">
+                                                    <!-- Slideshow container -->
+                                                    <div class="slideshow-container">
+
+                                                        <!-- Full-width images with number and caption text -->
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">1 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img1.jpeg" style="width:100%">
+                                                            <div class="text">Caption one</div>
+                                                        </div>
+
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">2 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img2.jpeg" style="width:100%">
+                                                            <div class="text">Caption Two</div>
+                                                        </div>
+
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">3 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img3.jpeg" style="width:100%">
+                                                            <div class="text">Caption Three</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">4 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img4.jpg" style="width:100%">
+                                                            <div class="text">Caption four</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">5 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img5.jpeg" style="width:100%">
+                                                            <div class="text">Caption five</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">6 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img6.jpeg" style="width:100%">
+                                                            <div class="text">Caption six</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">7 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img7.jpg" style="width:100%">
+                                                            <div class="text">Caption seven</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">8 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img8.jpg" style="width:100%">
+                                                            <div class="text">Caption eight</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">9 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img9.jpeg" style="width:100%">
+                                                            <div class="text">Caption nine</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">10 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img10.jpeg" style="width:100%">
+                                                            <div class="text">Caption ten</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">11 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img11.jpeg" style="width:100%">
+                                                            <div class="text">Caption eleven</div>
+                                                        </div>
+                                                        <div class="mySlides fade">
+                                                            <div class="numbertext">12 / 12</div>
+                                                            <img src="..\..\wp-content\campaign gallery\عنيك في عينينا صور\img12.jpeg" style="width:100%">
+                                                            <div class="text">Caption twelve</div>
+                                                        </div>
+
+                                                        <!-- Next and previous buttons -->
+                                                        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                                                        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                                                    </div>
+                                                    <br>
+
+                                                    <!-- The dots/circles -->
+                                                    <div style="text-align:center">
+                                                        <span class="dot" onclick="currentSlide(1)"></span>
+                                                        <span class="dot" onclick="currentSlide(2)"></span>
+                                                        <span class="dot" onclick="currentSlide(3)"></span>
+                                                        <span class="dot" onclick="currentSlide(4)"></span>
+                                                        <span class="dot" onclick="currentSlide(5)"></span>
+                                                        <span class="dot" onclick="currentSlide(6)"></span>
+                                                        <span class="dot" onclick="currentSlide(7)"></span>
+                                                        <span class="dot" onclick="currentSlide(8)"></span>
+                                                        <span class="dot" onclick="currentSlide(9)"></span>
+                                                        <span class="dot" onclick="currentSlide(10)"></span>
+                                                        <span class="dot" onclick="currentSlide(11)"></span>
+                                                        <span class="dot" onclick="currentSlide(12)"></span>
+                                                    </div>
+
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -3017,6 +3221,41 @@
     <script src='../../wp-content/plugins/elementor/assets/js/frontend.minb12b.js?ver=3.1.1' id='elementor-frontend-js'></script>
     <script src='../../wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.minb12b.js?ver=3.1.1' id='preloaded-elements-handlers-js'></script>
     <script src='../../wp-content/plugins/gainlove-core/assets/js/elementor/frontend4c7e.js?ver=5.6.2' id='opal-elementor-frontend-js'></script>
+    <script>
+        // SlideShow javascript
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            let i;
+            let slides = document.getElementsByClassName("mySlides");
+            let dots = document.getElementsByClassName("dot");
+            if (n > slides.length) {
+                slideIndex = 1
+            }
+            if (n < 1) {
+                slideIndex = slides.length
+            }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+        }
+    </script>
+
+
 </body>
 <!-- Mirrored from demo2.themelexus.com/gainlove/donations/youth-in-action-against-poverty/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Aug 2022 10:57:13 GMT -->
 
