@@ -24627,7 +24627,6 @@ body:not(.title-tagline-hidden) .site-branding-text {
 
 @media (min-width:992px) {
     body.opal-header-absolute .site-header {
-        position: absolute;
         width: 100%;
         background-color: transparent
     }
