@@ -8875,7 +8875,7 @@ rs-sbg-px {
 @font-face {
     font-family: 'revicons';
     src: url(../../../plugins/revslider/public/assets/fonts/revicons/revicons90c6.eot?5510888);
-    src: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../fonts/revicons/revicons.eot?5510888#iefix) format('embedded-opentype'), url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../fonts/revicons/revicons.woff?5510888) format('woff'), url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../fonts/revicons/revicons.ttf?5510888) format('truetype'), url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../fonts/revicons/revicons.svg?5510888#revicons) format('svg');
+    src: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../fonts/revicons/revicons.eot?5510888#iefix) format('embedded-opentype'), url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../fonts/revicons/revicons.woff?5510888) format('woff'), url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../fonts/revicons/revicons.ttf?5510888) format('truetype'), url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../fonts/revicons/revicons.svg?5510888#revicons) format('svg');
     font-weight: 400;
     font-style: normal
 }
@@ -9392,11 +9392,11 @@ rs-alyer *:not(.rs-wtbindex),
 }
 
 rs-carousel-wrap {
-    cursor: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/openhand.cur), move
+    cursor: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/openhand.cur), move
 }
 
 rs-carousel-wrap.dragged {
-    cursor: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/closedhand.cur), move
+    cursor: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/closedhand.cur), move
 }
 
 rs-carousel-wrap.noswipe {
@@ -9950,19 +9950,19 @@ rs-sbg-wrap rs-dotted {
 }
 
 rs-dotted.twoxtwo {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/gridtile.png)
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/gridtile.png)
 }
 
 rs-dotted.twoxtwowhite {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/gridtile_white.png)
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/gridtile_white.png)
 }
 
 rs-dotted.threexthree {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/gridtile_3x3.png)
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/gridtile_3x3.png)
 }
 
 rs-dotted.threexthreewhite {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/gridtile_3x3_white.png)
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/gridtile_3x3_white.png)
 }
 
 .tp-shadowcover {
@@ -10382,11 +10382,11 @@ rs-progress-vis {
 .rs-layer.slidelink a div {
     width: 3000px;
     height: 1500px;
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/coloredbg.png) repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/coloredbg.png) repeat
 }
 
 .rs-layer.slidelink a span {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/coloredbg.png) repeat;
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/coloredbg.png) repeat;
     width: 100%;
     height: 100%;
     display: block
@@ -10455,7 +10455,7 @@ rs-loader.spinner0 {
     width: 40px;
     height: 40px;
     background-color: #fff;
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/loader.gif);
+    background-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/loader.gif);
     background-repeat: no-repeat;
     background-position: center center;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, .15);
@@ -10477,7 +10477,7 @@ rs-loader.spinner1 {
 }
 
 rs-loader.spinner5 {
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/loader.gif);
+    background-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/revslider/public/assets/css/../assets/loader.gif);
     background-repeat: no-repeat;
     background-position: 10px 10px;
     background-color: #fff;
@@ -12028,7 +12028,7 @@ rs-loader.spinner15 .rs-spinner-inner:last-child {
 @font-face {
     font-family: eicons;
     src: url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);
-    src: url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"), url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.woff2?5.10.0) format("woff2"), url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.woff?5.10.0) format("woff"), url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.ttf?5.10.0) format("truetype"), url(//demo2.themelexus.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.svg?5.10.0#eicon) format("svg");
+    src: url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"), url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.woff2?5.10.0) format("woff2"), url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.woff?5.10.0) format("woff"), url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.ttf?5.10.0) format("truetype"), url(//sona3elkhair.com/Sona3elkhair/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.svg?5.10.0#eicon) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -33582,7 +33582,7 @@ blockquote:before {
     content: "";
     width: 50px;
     height: 50px;
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/.../../assets/images/quote-icon.png);
+    background-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/.../../assets/images/quote-icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -37099,7 +37099,7 @@ body.page-template-page-elementor #content {
 }
 
 .error404 .site-content-contain {
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/.../../assets/images/bg_404.jpg);
+    background-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/.../../assets/images/bg_404.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover
@@ -41764,7 +41764,7 @@ button.active.give-btn-modal,
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/owl.video.play.png) no-repeat;
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/owl.video.play.png) no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
@@ -45516,8 +45516,8 @@ body.opal-content-layout-2cr #content .elementor-widget-opal-featured-box .wrap,
 }
 
 .elementor-shape-polygon .elementor-icon {
-    -webkit-mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/icon_box.png);
-    mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/icon_box.png);
+    -webkit-mask-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/icon_box.png);
+    mask-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/icon_box.png);
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     -webkit-mask-size: 100%;
@@ -45579,7 +45579,7 @@ body.opal-content-layout-2cr #content .elementor-widget-opal-featured-box .wrap,
 }
 
 .elementor-widget-image-box .elementor-image-framed.svg-box-decor:before {
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/svg-box-decor.png);
+    background-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/svg-box-decor.png);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -48493,8 +48493,8 @@ body.opal-content-layout-2cr #content .elementor-widget-opal-post-grid .wrap>div
     width: 100%;
     -webkit-mask-size: 100%;
     mask-size: 100%;
-    -webkit-mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/pricing_bg.svg);
-    mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/pricing_bg.svg);
+    -webkit-mask-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/pricing_bg.svg);
+    mask-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/pricing_bg.svg);
     -webkit-mask-position: center bottom;
     mask-position: center bottom;
     -webkit-mask-repeat: no-repeat;
@@ -52876,7 +52876,7 @@ form[id*=give-form] select.give-select-level {
 #give_purchase_form_wrap input.give-input.card-number.valid,
 #give_purchase_form_wrap input.give-input.card-cvc.valid,
 #give_purchase_form_wrap input.give-input.card-expiry.valid {
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/tick.png);
+    background-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/tick.png);
     background-repeat: no-repeat;
     background-position: right 10px top 50%;
     background-size: 16px
@@ -52907,39 +52907,39 @@ form[id*=give-form] select.give-select-level {
 }
 
 #give_purchase_form_wrap span.card-type.visa {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/visa.svg) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/visa.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.mastercard {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/mastercard.svg) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/mastercard.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.discover {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/discover.svg) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/discover.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.amex {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/amex.svg) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/amex.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.maestro {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/maestro.svg) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/maestro.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.dinersclub {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/diners-club.svg) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/diners-club.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.jcb {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/jcb.svg) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/jcb.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.dankort {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/dankort.png) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/dankort.png) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.unionpay {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/unionpay.svg) no-repeat
+    background: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/unionpay.svg) no-repeat
 }
 
 @-webkit-keyframes opacity {
@@ -54607,7 +54607,7 @@ ul.campaign-gallery li.add-image {
     border-radius: 5px;
     padding: 0 1rem;
     position: relative;
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/down-arrow.svg);
+    background-image: url(//sona3elkhair.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/down-arrow.svg);
     background-position: 98% center;
     background-repeat: no-repeat;
     background-size: 12px;
