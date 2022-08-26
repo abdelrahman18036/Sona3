@@ -9382,6 +9382,15 @@ rs-alyer *:not(.rs-wtbindex),
     text-align: right!important;
 }
 
+@media screen and (max-width: 480px) {
+    rs-layer:not(.rs-wtbindex),
+    .rs-layer:not(.rs-wtbindex),
+    rs-alyer *:not(.rs-wtbindex),
+    .rs-layer *:not(.rs-wtbindex) {
+        text-align: center!important;
+    }
+}
+
 rs-carousel-wrap {
     cursor: url(//demo2.themelexus.com/gainlove/wp-content/plugins/revslider/public/assets/css/openhand.cur), move
 }

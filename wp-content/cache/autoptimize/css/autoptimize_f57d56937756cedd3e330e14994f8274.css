@@ -44001,7 +44001,8 @@ ul.campaign-gallery li.add-image {
 }
 
 .give-wrap .give-card__meta {
-    margin-bottom: 1.5rem
+    margin-bottom: 1.5rem;
+    text-align: right;
 }
 
 .give-wrap .give-card__meta>span:not(:first-child) {
@@ -44075,6 +44076,8 @@ ul.campaign-gallery li.add-image {
 
 .give-wrap .give-card__title {
     line-height: 1.2;
+    text-align: right;
+    direction: rtl;
     margin: 0 0 .65rem;
     padding: 0;
     font-size: 24px;
