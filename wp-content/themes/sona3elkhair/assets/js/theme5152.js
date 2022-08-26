@@ -177,7 +177,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
             _classCallCheck(this, OpalThemeSmoothMenu);
 
-            gainloveJS.smoothCallback = function (selector) {
+            Sona3elkhairJS.smoothCallback = function (selector) {
                 jQuery('.opal-smooth-menu a[href^="' + selector + '"]').trigger('click');
             };
 
