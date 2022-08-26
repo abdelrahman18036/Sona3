@@ -21023,7 +21023,7 @@ rs-loader.spinner15 .rs-spinner-inner:last-child {
     font-weight: 400;
     font-display: block;
     src: url(../../../plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(../../../themes/Sona3elkhair/assets/fonts/fa-brands-400.woff2) format("woff2"), url(../../../themes/Sona3elkhair/assets/fonts/fa-brands-400.woff) format("woff"), url(../../../themes/Sona3elkhair/assets/fonts/fa-brands-400.ttf) format("truetype"), url(../../../themes/Sona3elkhair/assets/fonts/fa-brands-400.svg#fontawesome) format("svg")
+    src: url(../../../themes/sona3elkhair/assets/fonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(../../../themes/sona3elkhair/assets/fonts/fa-brands-400.woff2) format("woff2"), url(../../../themes/sona3elkhair/assets/fonts/fa-brands-400.woff) format("woff"), url(../../../themes/sona3elkhair/assets/fonts/fa-brands-400.ttf) format("truetype"), url(../../../themes/sona3elkhair/assets/fonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
@@ -21035,8 +21035,8 @@ rs-loader.spinner15 .rs-spinner-inner:last-child {
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../../themes/Sona3elkhair/assets/fonts/fa-regular-400.eot);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(../../../themes/Sona3elkhair/assets/fonts/fa-regular-400.woff2) format("woff2"), url(../../../themes/Sona3elkhair/assets/fonts/fa-regular-400.woff) format("woff"), url(../../../themes/Sona3elkhair/assets/fonts/fa-regular-400.ttf) format("truetype"), url(../../../themes/Sona3elkhair/assets/fonts/fa-regular-400.svg#fontawesome) format("svg")
+    src: url(../../../themes/sona3elkhair/assets/fonts/fa-regular-400.eot);
+    src: url(../../../themes/sona3elkhair/assets/fonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(../../../themes/sona3elkhair/assets/fonts/fa-regular-400.woff2) format("woff2"), url(../../../themes/sona3elkhair/assets/fonts/fa-regular-400.woff) format("woff"), url(../../../themes/sona3elkhair/assets/fonts/fa-regular-400.ttf) format("truetype"), url(../../../themes/sona3elkhair/assets/fonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 
 .fab,
@@ -21049,8 +21049,8 @@ rs-loader.spinner15 .rs-spinner-inner:last-child {
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url(../../../themes/Sona3elkhair/assets/fonts/fa-solid-900.eot);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(../../../themes/Sona3elkhair/assets/fonts/fa-solid-900.woff2) format("woff2"), url(../../../themes/Sona3elkhair/assets/fonts/fa-solid-900.woff) format("woff"), url(../../../themes/Sona3elkhair/assets/fonts/fa-solid-900.ttf) format("truetype"), url(../../../themes/Sona3elkhair/assets/fonts/fa-solid-900.svg#fontawesome) format("svg")
+    src: url(../../../themes/sona3elkhair/assets/fonts/fa-solid-900.eot);
+    src: url(../../../themes/sona3elkhair/assets/fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(../../../themes/sona3elkhair/assets/fonts/fa-solid-900.woff2) format("woff2"), url(../../../themes/sona3elkhair/assets/fonts/fa-solid-900.woff) format("woff"), url(../../../themes/sona3elkhair/assets/fonts/fa-solid-900.ttf) format("truetype"), url(../../../themes/sona3elkhair/assets/fonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa,
@@ -23216,32 +23216,32 @@ rs-loader.spinner15 .rs-spinner-inner:last-child {
 
 @font-face {
     font-family: 'Sona3elkhair';
-    src: url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_regular.eot);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_regular.eot) format('embedded-opentype'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_regular.woff2) format('woff2'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_regular.woff) format('woff'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_regular.ttf) format('truetype'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_regular.svg#Sona3elkhair_regular) format('svg');
+    src: url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_regular.eot);
+    src: url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_regular.eot) format('embedded-opentype'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_regular.woff2) format('woff2'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_regular.woff) format('woff'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_regular.ttf) format('truetype'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_regular.svg#Sona3elkhair_regular) format('svg');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Sona3elkhair';
-    src: url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibold.eot);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibold.eot) format('embedded-opentype'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibold.woff2) format('woff2'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibold.woff) format('woff'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibold.ttf) format('truetype'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibold.svg#Sona3elkhair_demibold) format('svg');
+    src: url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibold.eot);
+    src: url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibold.eot) format('embedded-opentype'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibold.woff2) format('woff2'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibold.woff) format('woff'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibold.ttf) format('truetype'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibold.svg#Sona3elkhair_demibold) format('svg');
     font-weight: 600;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Sona3elkhair';
-    src: url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.eot);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.eot) format('embedded-opentype'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.woff2) format('woff2'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.woff) format('woff'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.ttf) format('truetype'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.svg#Sona3elkhair_demibolditalic) format('svg');
+    src: url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.eot);
+    src: url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.eot) format('embedded-opentype'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.woff2) format('woff2'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.woff) format('woff'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.ttf) format('truetype'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_demibolditalic.svg#Sona3elkhair_demibolditalic) format('svg');
     font-weight: 600;
     font-style: italic
 }
 
 @font-face {
     font-family: 'Sona3elkhair';
-    src: url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_bold.eot);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_bold.eot) format('embedded-opentype'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_bold.woff2) format('woff2'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_bold.woff) format('woff'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_bold.ttf) format('truetype'), url(../../../themes/Sona3elkhair/assets/fonts/Sona3elkhair_bold.svg#Sona3elkhair_bold) format('svg');
+    src: url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_bold.eot);
+    src: url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_bold.eot) format('embedded-opentype'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_bold.woff2) format('woff2'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_bold.woff) format('woff'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_bold.ttf) format('truetype'), url(../../../themes/sona3elkhair/assets/fonts/Sona3elkhair_bold.svg#Sona3elkhair_bold) format('svg');
     font-weight: 700;
     font-style: normal
 }
@@ -23302,8 +23302,8 @@ rs-loader.spinner15 .rs-spinner-inner:last-child {
 
 @font-face {
     font-family: 'FontAwesome';
-    src: url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont3e6e.eot?v=4.7.0);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"), url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"), url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"), url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
+    src: url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont3e6e.eot?v=4.7.0);
+    src: url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"), url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"), url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"), url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -26344,8 +26344,8 @@ form[id*=give-form] .give-loading-animation,
 
 @font-face {
     font-family: "opal-icon";
-    src: url(../../../themes/Sona3elkhair/assets/fonts/opal-icon.eot);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/opal-icon.eot?#iefix) format("eot"), url(../../../themes/Sona3elkhair/assets/fonts/opal-icon.woff2) format("woff2"), url(../../../themes/Sona3elkhair/assets/fonts/opal-icon.woff) format("woff"), url(../../../themes/Sona3elkhair/assets/fonts/opal-icon.ttf) format("truetype"), url(../../../themes/Sona3elkhair/assets/fonts/opal-icon.svg#opal-icon) format("svg")
+    src: url(../../../themes/sona3elkhair/assets/fonts/opal-icon.eot);
+    src: url(../../../themes/sona3elkhair/assets/fonts/opal-icon.eot?#iefix) format("eot"), url(../../../themes/sona3elkhair/assets/fonts/opal-icon.woff2) format("woff2"), url(../../../themes/sona3elkhair/assets/fonts/opal-icon.woff) format("woff"), url(../../../themes/sona3elkhair/assets/fonts/opal-icon.ttf) format("truetype"), url(../../../themes/sona3elkhair/assets/fonts/opal-icon.svg#opal-icon) format("svg")
 }
 
 [class*=opal-icon-]:before {
@@ -33582,7 +33582,7 @@ blockquote:before {
     content: "";
     width: 50px;
     height: 50px;
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/.../../assets/images/quote-icon.png);
+    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/.../../assets/images/quote-icon.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -37099,7 +37099,7 @@ body.page-template-page-elementor #content {
 }
 
 .error404 .site-content-contain {
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/.../../assets/images/bg_404.jpg);
+    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/.../../assets/images/bg_404.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover
@@ -41764,7 +41764,7 @@ button.active.give-btn-modal,
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/owl.video.play.png) no-repeat;
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/owl.video.play.png) no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
@@ -45516,8 +45516,8 @@ body.opal-content-layout-2cr #content .elementor-widget-opal-featured-box .wrap,
 }
 
 .elementor-shape-polygon .elementor-icon {
-    -webkit-mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/assets/images/icon_box.png);
-    mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/assets/images/icon_box.png);
+    -webkit-mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/icon_box.png);
+    mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/icon_box.png);
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     -webkit-mask-size: 100%;
@@ -45579,7 +45579,7 @@ body.opal-content-layout-2cr #content .elementor-widget-opal-featured-box .wrap,
 }
 
 .elementor-widget-image-box .elementor-image-framed.svg-box-decor:before {
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/assets/images/svg-box-decor.png);
+    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/svg-box-decor.png);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -48493,8 +48493,8 @@ body.opal-content-layout-2cr #content .elementor-widget-opal-post-grid .wrap>div
     width: 100%;
     -webkit-mask-size: 100%;
     mask-size: 100%;
-    -webkit-mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/assets/images/pricing_bg.svg);
-    mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/assets/images/pricing_bg.svg);
+    -webkit-mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/pricing_bg.svg);
+    mask-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/pricing_bg.svg);
     -webkit-mask-position: center bottom;
     mask-position: center bottom;
     -webkit-mask-repeat: no-repeat;
@@ -51669,8 +51669,8 @@ screen and (max-height:300px) {
 
 @font-face {
     font-family: 'give-icomoon';
-    src: url(../../../themes/Sona3elkhair/assets/fonts/icomoon5c45.eot?kdnr3d);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/icomoon.eot?kdnr3d#iefix) format("embedded-opentype"), url(../../../themes/Sona3elkhair/assets/fonts/icomoon.woff?kdnr3d) format("woff"), url(../../../themes/Sona3elkhair/assets/fonts/icomoon.svg?kdnr3d#icomoon) format("svg");
+    src: url(../../../themes/sona3elkhair/assets/fonts/icomoon5c45.eot?kdnr3d);
+    src: url(../../../themes/sona3elkhair/assets/fonts/icomoon.eot?kdnr3d#iefix) format("embedded-opentype"), url(../../../themes/sona3elkhair/assets/fonts/icomoon.woff?kdnr3d) format("woff"), url(../../../themes/sona3elkhair/assets/fonts/icomoon.svg?kdnr3d#icomoon) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -52876,7 +52876,7 @@ form[id*=give-form] select.give-select-level {
 #give_purchase_form_wrap input.give-input.card-number.valid,
 #give_purchase_form_wrap input.give-input.card-cvc.valid,
 #give_purchase_form_wrap input.give-input.card-expiry.valid {
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/tick.png);
+    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/tick.png);
     background-repeat: no-repeat;
     background-position: right 10px top 50%;
     background-size: 16px
@@ -52907,39 +52907,39 @@ form[id*=give-form] select.give-select-level {
 }
 
 #give_purchase_form_wrap span.card-type.visa {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/visa.svg) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/visa.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.mastercard {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/mastercard.svg) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/mastercard.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.discover {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/discover.svg) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/discover.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.amex {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/amex.svg) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/amex.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.maestro {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/maestro.svg) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/maestro.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.dinersclub {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/diners-club.svg) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/diners-club.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.jcb {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/jcb.svg) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/jcb.svg) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.dankort {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/dankort.png) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/dankort.png) no-repeat
 }
 
 #give_purchase_form_wrap span.card-type.unionpay {
-    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/../images/unionpay.svg) no-repeat
+    background: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/../images/unionpay.svg) no-repeat
 }
 
 @-webkit-keyframes opacity {
@@ -54607,7 +54607,7 @@ ul.campaign-gallery li.add-image {
     border-radius: 5px;
     padding: 0 1rem;
     position: relative;
-    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/Sona3elkhair/assets/images/down-arrow.svg);
+    background-image: url(//demo2.themelexus.com/Sona3elkhair/wp-content/themes/sona3elkhair/assets/images/down-arrow.svg);
     background-position: 98% center;
     background-repeat: no-repeat;
     background-size: 12px;
@@ -55858,7 +55858,7 @@ body.custom-background {
 @font-face {
     font-family: 'FontAwesome';
     src: url(../../../plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont3e6e.eot?v=4.7.0);
-    src: url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'), url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url(../../../themes/Sona3elkhair/assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
+    src: url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'), url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url(../../../themes/sona3elkhair/assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
     font-weight: 400;
     font-style: normal
 }
