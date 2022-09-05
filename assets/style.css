@@ -1,0 +1,49 @@
+.conAlert {
+    text-align: center;
+    padding: 10px;
+    background: #79c879;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    height: fit-content;
+    width: 90%;
+    border-radius: 5px;
+    display: none;
+}
+
+.volAlert {
+    text-align: center;
+    padding: 10px;
+    background: #79c879;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    height: fit-content;
+    width: 90%;
+    border-radius: 10px;
+    display: none;
+}
+
+.subAlert {
+    text-align: center;
+    padding: 10px;
+    background: #79c879;
+    color: #fff;
+    margin: auto;
+    position: relative;
+    height: fit-content;
+    width: 90%;
+    border-radius: 10px;
+    display: none;
+}
+
+/*g-recaptcha size on phone*/
+@media (max-width: 768px) {
+    .g-recaptcha {
+        transform: scale(0.77);
+        -webkit-transform: scale(0.77);
+        transform-origin: 0 0;
+        -webkit-transform-origin: 0 0;
+        float: left;
+    }
+}

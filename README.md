@@ -1,2 +1,1 @@
-# Sona3
-Sona3 Demo
+# Sona3 Elkhair
